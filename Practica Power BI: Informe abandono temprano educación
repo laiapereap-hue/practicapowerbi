@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <title>CAS 2 Power BI</title>
+</head>
+<body>
+  <h1>Informe incrustat de Power BI</h1>
+  <iframe 
+    width="100%" 
+    height="800" 
+    src="<iframe title="Modulo 3_Caso 6_Laia Perea" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWZiMmUzOTctMWFlZS00YzhlLTkxMDMtNWIwMDU0NDE2NzdlIiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>" 
+    frameborder="0" 
+    allowFullScreen="true">
+  </iframe>
+</body>
+</html>
